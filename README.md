@@ -1,6 +1,8 @@
 # simmy
-How to build:
+##How to build:
+```
 mkdir build
 cd build
 cmake ..
 make
+```
